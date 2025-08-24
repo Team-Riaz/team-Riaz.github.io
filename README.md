@@ -1,2 +1,2 @@
 # team-Riaz.github.io
-Homepage
+Org site for Team Riaz serving https://mtgbyriaz.io
